@@ -18,6 +18,9 @@
         "_file_cpp": {
             "iconPath": "./src/cpp.svg"
         },
+        "_file_cppm": {
+            "iconPath": "./src/cppm.svg"
+        },
         "_file_css": {
             "iconPath": "./src/css.svg"
         },
@@ -148,8 +151,8 @@
         "cpp": "_file_cpp",
         "cc": "_file_cpp",
         "cxx": "_file_cpp",
-        "cppm": "_file_cpp",
-        "ixx": "_file_cpp",
+        "cppm": "_file_cppm",
+        "ixx": "_file_cppm",
         "js": "_file_js",
         "mjs": "_file_js",
         "html": "_file_html",
